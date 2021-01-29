@@ -18,6 +18,9 @@ public class HelloWorld {
         // TODO code application logic here
         
         System.out.println("Hello World");
+        
+        // This is a second print statement
+        System.out.println("Hello World 2");
     }
     
 }
